@@ -6,6 +6,7 @@ ECE382-Lab5
 Will put in table format later... 
 
 Table1
+
 |Pulse | Duration | Timer A Counts |
 |------|----------|----------------|
 |Start Logic 0  |  9.1 ms |  9045 |
@@ -18,6 +19,7 @@ Table1
 |Stop Logic 1   | 39.9 ms |  39318 |
 
 Table2
+
 | Button | Code |
 |--------|------|
 |0  | 0x2FD00FF |
