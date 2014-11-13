@@ -3,8 +3,6 @@ ECE382-Lab5
 
 #Day 1
 
-Will put in table format later... 
-
 Table1
 
 |Pulse | Duration | Timer A Counts |
