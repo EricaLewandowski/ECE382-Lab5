@@ -42,10 +42,15 @@ the code is broken up into three main parts. The first, and most important is th
 
 #Debugging
 
-I had a lot of trouble with this lab, partly because I was under the weather during the process. 
+I had a lot of trouble with this lab, partly because I was under the weather during the process. I referenced a lot of the other programs we've been given and taught so as to not mess up the syntax. In addition, while testing, I had to reprogram the button input codes because my remote couldn't be found. 
 
 #Observations/Conclusions
 
+Once the program finally worked, the Ch+ button turned on the red LED, and the CH- turned off the LED. The Vol+/Vol- were programmed similarly except for the green LED. 
+
 #Documentation
 
+Dr Coulston helped me in EI two different times, in addition to help in the lab. 
+
 #Commit History
+... Uhh yeah. 
