@@ -38,7 +38,11 @@ On day two, the data collected above was input into the code shells given: start
 
 #Code Walk Through
 
+the code is broken up into three main parts. The first, and most important is the main function. Main contains the if statements instructing the LEDs when certain buttons are pressed. For my code, the Ch+/Ch- turned on the red LED and Vol+/Vol- toggled the green LED. The second is the Port2Vector function which controls the Timer A Register. The timer is set to turn on and off and take readings, in this case, IF readings on both the positive and negative edges and classiofy them. Lastly the Timer0_A1Vector function. This function controls when the timer flag is set and when it is cleared. 
+
 #Debugging
+
+I had a lot of trouble with this lab, partly because I was under the weather during the process. 
 
 #Observations/Conclusions
 
