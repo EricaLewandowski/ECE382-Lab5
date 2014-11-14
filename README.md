@@ -3,6 +3,8 @@ ECE382-Lab5
 
 #Day 1
 
+The purpose behind the first day's work was to collect data from the IR sensor. The IR Sensor was connected to the MSP430 to receive inputs from a remote control. Using the oscilloscope combined with the computer program tes5.c information on pulse lengths was collected, as seen in Table 1. Table 2 contains data on what hex codes were transmitted when various buttons were pressed, which is more relevant to day 2's work. 
+
 Table1
 
 |Pulse | Duration | Timer A Counts |
@@ -31,6 +33,8 @@ Table2
 |CH-  | 0X2FDF807 |
 
 #Day2
+
+On day two, the data collected above was input into the code shells given: start5.c and start5.h. Our task was to modify the code to toggle both LED lights on the MSP430 using different buttons on the remote control. 
 
 #Code Walk Through
 
